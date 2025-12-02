@@ -21,7 +21,7 @@ O objetivo é analisar vendas, lucros e unidades vendidas por produto, segmento 
 
 ## 📄 Visualização rápida
 Se você não tiver Power BI instalado, pode visualizar o dashboard em PDF:  
-👉 [Abrir PDF](docs/financials.pdf)
+👉 [Abrir PDF](Financials.pdf)
 
 ---
 
@@ -30,5 +30,3 @@ Se você não tiver Power BI instalado, pode visualizar o dashboard em PDF:
 - **Gráfico de pizza**: Lucro por segmento.
 - **Tabela**: Média de preço por produto.
 - **Série temporal**: Evolução de vendas por mês/ano.
-- Criar narrativa no Google Slides para apresentação.
-- Adicionar vídeo curto mostrando navegação no dashboard.
