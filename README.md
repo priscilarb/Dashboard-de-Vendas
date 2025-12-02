@@ -7,7 +7,7 @@ O objetivo é analisar vendas, lucros e unidades vendidas por produto, segmento 
 
 ## 📂 Conteúdo do Repositório
 - `Financials.pbit` → Modelo do Power BI (sem dados, apenas estrutura).
-- `docs/financials.pdf` → Exportação em PDF para visualização rápida.
+- `Financials.pdf` → Exportação em PDF para visualização rápida.
 
 ---
 
